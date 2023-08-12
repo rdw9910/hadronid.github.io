@@ -2,8 +2,8 @@
 layout:     post
 title:      Penjelajahan di Dunia Hadron
 subtitle:   
-date:       2017-10-04
-author:     BY
+date:       2023-01-01
+author:     ajarifi
 header-img: img/home-bg-art.jpg
 catalog: true
 tags:
