@@ -10,6 +10,16 @@ tags:
     - intro
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HYX6V0F112"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HYX6V0F112');
+</script>
+
 Dunia subatom adalah salah satu area paling menarik dan kompleks dalam ilmu fisika. 
 Di dalamnya, partikel-partikel kecil yang disebut hadron menjadi pusat perhatian. 
 Hadron adalah kelompok partikel subatom yang terdiri dari quark dan terikat 
