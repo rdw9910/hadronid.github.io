@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "aj.arifi",
+        href: "https://ajarifi.github.io"
     }
 ]
