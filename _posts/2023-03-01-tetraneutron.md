@@ -79,8 +79,8 @@ neutron akan membawa wawasan yang lebih dalam tentang sifat sistem tetraneutron 
 
 ### Referensi
 
-* [Tetraneutron finally found.](https://www.advancedsciencenews.com/tetraneutron-finally-found/), Advanced Science News.
-* [Observation of a correlated free four-neutron system](https://www.nature.com/articles/s41586-022-04827-6) Nature (2022).
+* [Tetraneutron finally found](https://www.advancedsciencenews.com/tetraneutron-finally-found/), Advanced Science News.
+* [Observation of a correlated free four-neutron system](https://www.nature.com/articles/s41586-022-04827-6), Nature (2022).
 
 
 
