@@ -4,7 +4,7 @@ title:      Tetraneutron akhirnya ditemukan oleh kolaborasi SAMURAI
 subtitle:   
 date:       2023-03-01
 author:     aj.arifi
-header-img: img/home-bg-art.jpg
+header-img: img/intro.jpeg
 catalog: true
 tags:
     - riset
