@@ -4,7 +4,7 @@ title:      Penjelajahan di Dunia Hadron
 subtitle:   
 date:       2023-01-01
 author:     aj.arifi
-header-img: img/home-bg-art.jpg
+header-img: img/intro.jpeg
 catalog: true
 tags:
     - intro
