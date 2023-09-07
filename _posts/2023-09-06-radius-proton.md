@@ -3,8 +3,8 @@ layout:     post
 title:      "Misteri Radius Proton: Tantangan dalam Memahami Struktur Atom"
 subtitle:   
 date:       2023-09-06
-author:     mridwan
-header-img: img/IMG_5313.JPG
+author:     m.ridwan
+header-img: img/intro.jpeg
 catalog: true
 tags:
     - riset
