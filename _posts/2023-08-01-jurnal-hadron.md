@@ -28,6 +28,8 @@ Disini kita akan mengkompilasi daftar jurnal yang menjadi rujukan kemajuan di bi
   (Q1, IF=2.4) Institute of Physics (IOP), U.K.
 * The European Physical Journal A Review\
   (Q1, IF=2.2) Springer, Germany
+* International Journal Modern Physics Letter A\
+  (Q1, IF=1.8) World Scientific, Singapore
 
 ### Artikel Singkat (Letter)
 
