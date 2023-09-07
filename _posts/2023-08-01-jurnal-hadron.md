@@ -14,8 +14,8 @@ Disini kita akan mengkompilasi daftar jurnal yang menjadi rujukan kemajuan di bi
 
 ### Artikel Review
 
-* Review of Modern Physics\
-  (Q1, IF=45.0) American physical society (APS), USA
+* [Review of Modern Physics](https://journals.aps.org/rmp/)\
+  (Q1, IF=45.0) American Physical Society (APS), USA
 * Physics Reports\
   (Q1, IF=25.8) Elsevier, Netherland
 * Progress in Particle and Nuclear Physics\
