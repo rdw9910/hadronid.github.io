@@ -4,7 +4,7 @@ title:      "Daftar Jurnal tentang Kemajuan di Bidang Hadron"
 subtitle:   
 date:       2023-08-01
 author:     aj.arifi
-header-img: img/IMG_5313.JPG
+header-img: img/intro.jpeg
 catalog: true
 tags:
     - jurnal
