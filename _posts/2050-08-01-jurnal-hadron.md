@@ -2,7 +2,7 @@
 layout:     post
 title:      "Daftar Jurnal tentang Kemajuan di Bidang Hadron"
 subtitle:   
-date:       2023-08-01
+date:       2050-08-01
 author:     aj.arifi
 header-img: img/intro.jpeg
 catalog: true
