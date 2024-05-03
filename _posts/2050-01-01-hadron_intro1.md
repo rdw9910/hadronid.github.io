@@ -2,7 +2,7 @@
 layout:     post
 title:      Penjelajahan di Dunia Hadron
 subtitle:   
-date:       2023-01-01
+date:       2050-01-01
 author:     aj.arifi
 header-img: img/intro.jpeg
 catalog: true
