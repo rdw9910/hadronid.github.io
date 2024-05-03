@@ -2,7 +2,7 @@
 layout:     post
 title:      "Misteri Radius Proton: Tantangan dalam Memahami Struktur Atom"
 subtitle:   
-date:       2023-09-06
+date:       2050-09-06
 author:     m.ridwan
 header-img: img/intro.jpeg
 catalog: true
