@@ -12,7 +12,7 @@ github_repo: "https://github.com/hadronid/hadronid.github.io/tree/master" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "research collaboration"
-sidebar-avatar: /img/duniahadron.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/hadronid.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
