@@ -1,9 +1,9 @@
 # Site settings
-title: Dunia Hadron
-SEOTitle: Dunia Hadron
+title: Hadron ID
+SEOTitle: Hadron ID
 header-img: img/index_hadron2.jpg
 email: hadron.id@gmail.com
-description: "cerita, berita & riset"
+description: "research collaboration"
 keyword: "hadron"
 url: "http://hadronid.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/hadronid/hadronid.github.io/tree/master" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Portal edukasi & riset hadron!"
+sidebar-about-description: "research collaboration"
 sidebar-avatar: /img/duniahadron.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -102,8 +102,5 @@ friends: [
     {
         title: "aj.arifi",
         href: "https://ajarifi.github.io"
-    },{
-        title: "m.ridwan",
-        href: "https://github.com/rdw9910"
-    }
+    },
 ]
