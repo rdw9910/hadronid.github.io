@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      SNP School and Hashimoto Prize
+title:      SNP School 2023 at Tokai Mura
 subtitle:   
 date:       2023-12-01
 author:     aj.arifi
