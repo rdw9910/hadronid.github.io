@@ -173,16 +173,16 @@ a img:focus {
   cursor: zoom-in;
 }
 
-.participant {
+.country {
     display: inline-block;
     margin: 10px;
     text-align: center;
 }
-.participant img {
+.country img {
     width: 50px;
     height: auto;
 }
-.participant p {
+.country p {
     margin: 5px 0 0;
     font-size: 16px;
 }
