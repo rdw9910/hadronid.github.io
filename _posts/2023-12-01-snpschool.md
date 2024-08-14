@@ -33,8 +33,7 @@ This long-term involvement likely makes me one of the longest-standing participa
 Over the years, I have had the privilege of learning from esteemed lecturers, including Professor Terry, and have seen many Indonesian students, 
 including myself, benefit from the experience. 
 
-![](https://lh3.googleusercontent.com/JhI1vOiCJHQoNY8K0xXnkAoP8dQ2LMQBsy7K1QvIsRfpf_nozpmeWSloc44FwVlTLk7QeGuBYjPHXhmOuk1I3xS9M9PZOtWdlCu2nYEQ-47wQNgO00f1Ykw1INiqz6FXWg=w1280)
-
+![](/img/snp_tokai2023.jpg)
 
 The SNP School is truly international, with participants from various countries and English as the official language. 
 This setting has enriched my academic journey and provided numerous opportunities for growth and learning. 
