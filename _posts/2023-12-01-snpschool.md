@@ -45,6 +45,6 @@ The SNP School has been a cornerstone of my academic life, and I look forward to
 
 ### References
 
-* [SNP School 2023](https://sites.google.com/nex.phys.s.u-tokyo.ac.jp/snpsc2023/).
-* [SNP School](https://lambda.phys.tohoku.ac.jp/gppu/school/).
-* [Hashimoto](https://lambda.phys.tohoku.ac.jp/snpsc2012/).
+* [SNP School 2023](https://sites.google.com/nex.phys.s.u-tokyo.ac.jp/snpsc2023/)
+* [SNP School](https://lambda.phys.tohoku.ac.jp/gppu/school/)
+* [Hashimoto](https://lambda.phys.tohoku.ac.jp/snpsc2012/)
