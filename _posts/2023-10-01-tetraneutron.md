@@ -7,7 +7,7 @@ author:     aj.arifi
 header-img: img/intro.jpeg
 catalog: true
 tags:
-    - riset
+    - research
 ---
 
 
