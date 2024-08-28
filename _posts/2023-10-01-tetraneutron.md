@@ -2,7 +2,7 @@
 layout:     post
 title:      "Tetraneutron Identified by SAMURAI collaboration"
 subtitle:   
-date:       2050-03-01
+date:       2023-10-01
 author:     aj.arifi
 header-img: img/intro.jpeg
 catalog: true
