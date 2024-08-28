@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Tetraneutron akhirnya ditemukan oleh kolaborasi SAMURAI
+title:      "Tetraneutron Identified by SAMURAI collaboration"
 subtitle:   
 date:       2050-03-01
 author:     aj.arifi
@@ -10,77 +10,49 @@ tags:
     - riset
 ---
 
-Dalam inti atom hampir seluruhnya terdapat neutron, yang terikat dengan proton dan 
-satu sama lain melalui interaksi yang sangat kuat. Ini adalah fenomena umum pada 
-kebanyakan atom, dan partikel yang terbuat sepenuhnya dari neutron sangat jarang ditemukan.
-Namun, baru-baru ini, para ahli fisika melaporkan temuan yang menggembirakan dalam 
-studi terbaru mereka: pengamatan terhadap tetraneutron, partikel yang terdiri dari empat neutron. 
 
-![](https://www.scinexx.de/wp-content/uploads/0/1/01-31778-tetraneutron.jpg)
+In the heart of atomic nuclei, neutrons are bound together with protons through incredibly strong interactions. While this is a common phenomenon in most atoms, particles made entirely of neutrons are exceedingly rare. Recently, however, physicists have reported a groundbreaking discovery: the observation of a tetraneutron, a particle made up of four neutrons.
 
-Satu-satunya sistem fisis yang kita ketahui yang stabil dan hampir sepenuhnya 
-terdiri dari neutron adalah bintang neutron, di mana partikel-partikel ini terjaga 
-bersama oleh gaya gravitasi. Namun, dalam skala partikel subatomik, 
-interaksi gravitasi sangatlah lemah dan umumnya diabaikan. 
-Ini berarti bahwa dalam sebuah partikel yang hanya mengandung neutron, 
-neutron-neutron tersebut harus dijaga bersama oleh gaya nuklir yang sangat kuat.
+![Tetraneutron](https://www.scinexx.de/wp-content/uploads/0/1/01-31778-tetraneutron.jpg)
 
-Interaksi ini hingga saat ini masih belum sepenuhnya dipahami, 
-dan para peneliti belum bisa memastikan apakah partikel yang hanya 
-mengandung neutron bisa eksis berdasarkan pertimbangan teoretis, 
-yang menjadikan penelitian eksperimental sangatlah penting.
+#### What is a Tetraneutron?
 
-Diketahui bahwa neutron yang berdiri sendiri dapat ada dan "bertahan" 
-rata-rata selama hampir 15 menit, sebelum akhirnya meluruh menjadi proton, 
-elektron, dan neutrino. Pada tahun 2012, para ahli fisika menemukan dineutron, 
-partikel yang terdiri dari dua neutron, dengan masa hidup sekitar 10^-22 detik. 
-Menurut teori modern tentang interaksi kuat, sistem yang mengandung tiga neutron atau
-lebih tidak mungkin untuk ada, dan belum pernah ditemukan bukti eksperimental atas keberadaannya.
+The only stable system we know that consists almost entirely of neutrons is a neutron star, where these particles are held together by gravity. However, on a subatomic scale, gravity's influence is negligible compared to the strong nuclear force that binds particles together. This means that a particle composed solely of neutrons must be held together by the powerful nuclear force.
 
-Mengikuti pertimbangan empiris dan teoretis ini, kandidat terbaik untuk studi 
-eksperimental adalah partikel tetraneutron, yang terdiri dari empat neutron. 
-Pencarian terhadap partikel ini telah berlangsung sejak tahun 1960-an, dan sejumlah 
-fisikawan telah melaporkan penemuan partikel ini beberapa kali. Namun, akurasi dari 
-eksperimen-eksperimen ini belum cukup untuk membuat komunitas ilmiah secara bulat 
-menerima temuan mengenai tetraneutron.
+Understanding how this force operates in such a particle has been challenging. The theoretical framework for particles containing three or more neutrons has been elusive, making experimental research crucial.
 
-Namun, situasi ini berubah baru-baru ini. Kolaborasi SAMURAI yang melibatkan 
-fisikawan dari 23 negara akhirnya berhasil mengamati tetraneutron dengan tingkat 
-kepercayaan yang memadai. Eksperimen ini dilakukan di Pabrik Ion Radioaktif (RIBF) yang 
-dioperasikan oleh Pusat RIKEN Nishina dan Pusat Studi Nuklir (CNS) di Universitas Tokyo.
+#### The Life of a Neutron
 
-Dalam eksperimen ini, para fisikawan meluncurkan serangkaian inti helium yang 
-mengandung banyak neutron ke dalam target hidrogen cair — inti dari isotop helium 
-yang paling melimpah hanya mengandung dua neutron.
+A free neutron can exist for nearly 15 minutes before decaying into a proton, an electron, and a neutrino. In 2012, physicists discovered the dineutron—a particle made of two neutrons—with a lifetime of about \(10^{-22}\) seconds. Modern theories of strong interactions suggest that systems containing three or more neutrons should not be possible, and there has been no experimental evidence supporting their existence—until now.
 
-Ketika inti helium ini bertabrakan dengan target, inti-inti dari isotop helium 
-tersebut berinteraksi dengan proton-proton dalam atom hidrogen. Akibatnya, 
-terciptalah satu proton, inti helium biasa yang juga dikenal sebagai partikel α, dan tetraneutron.
+#### The Search for Tetraneutrons
 
-Tetraneutron tidak memiliki muatan, sehingga jauh lebih sulit untuk dideteksi 
-dibandingkan dengan proton dan partikel α yang lintasannya bisa dipengaruhi oleh medan magnet. 
-Oleh karena itu, para peneliti lebih fokus mempelajari kedua produk reaksi tersebut, 
-meskipun beberapa neutron yang akhirnya meluruh dari tetraneutron juga berhasil terdeteksi.
+The quest for the tetraneutron, a particle made of four neutrons, has been ongoing since the 1960s. While several physicists have claimed to have found such particles, the results have not been precise enough to gain widespread acceptance in the scientific community.
 
-Para fisikawan mengukur energi dan momentum proton serta partikel α dengan menggunakan 
-spektrometer SAMURAI, dan dari data tersebut, mereka mendapatkan informasi tentang tetraneutron. 
-Massa dari partikel yang baru ditemukan ini ternyata sedikit lebih tinggi, sekitar 0,05%, 
-dari jumlah massa empat neutron. Masa hidup partikel ini sekitar 4x10^-22 detik. 
-Hasil-hasil ini sejalan dengan beberapa penelitian eksperimental sebelumnya, 
-yang semakin memperkuat keyakinan para peneliti terhadap hasil temuan mereka.
+This situation has recently changed. The SAMURAI collaboration, involving physicists from 23 countries, has successfully observed tetraneutrons with a significant level of confidence. The experiment took place at the Radioactive Isotope Beam Factory (RIBF), operated by the RIKEN Nishina Center and the Nuclear Study Center (CNS) at the University of Tokyo.
 
-Namun, data eksperimental yang diperoleh oleh para ilmuwan tidak sesuai dengan 
-teori-teori gaya nuklir modern. Hal ini berarti bahwa teori-teori yang lebih 
-kompleks diperlukan untuk memahami fisika dari tetraneutron.
+#### How Was the Tetraneutron Detected?
 
-Menurut para penulis studi ini, eksperimen generasi mendatang yang mempelajari 
-mekanisme reaksi yang berbeda dan mungkin berhasil mendeteksi keberadaan empat 
-neutron akan membawa wawasan yang lebih dalam tentang sifat sistem tetraneutron ini.
+In the experiment, scientists fired a series of helium nuclei containing many neutrons at a liquid hydrogen target. Helium nuclei, the most abundant isotope containing only two neutrons, were chosen for this purpose.
 
-### Referensi
+When these helium nuclei collided with the hydrogen target, they interacted with the protons in the hydrogen atoms, producing one proton, a helium nucleus (also known as an alpha particle), and the tetraneutron.
 
-* [Tetraneutron finally found](https://www.advancedsciencenews.com/tetraneutron-finally-found/), Advanced Science News.
-* [Observation of a correlated free four-neutron system](https://www.nature.com/articles/s41586-022-04827-6), Nature (2022).
+Detecting tetraneutrons is challenging because they have no charge, making them much harder to spot compared to charged particles like protons and alpha particles. Researchers focused on studying the reactions of the proton and alpha particles, though some neutrons escaping from the tetraneutron were also detected.
+
+By measuring the energy and momentum of the proton and alpha particles using the SAMURAI spectrometer, scientists gathered information about the tetraneutron. They found that the mass of this newly discovered particle is slightly higher—about 0.05% more—than the combined mass of four neutrons. The particle's lifetime is around \(4 \times 10^{-22}\) seconds. These findings align with some previous experimental results, bolstering confidence in the discovery.
+
+#### Theoretical Implications
+
+However, the experimental data does not fit well with current theories of nuclear forces, suggesting that more complex theories are needed to understand the physics of tetraneutrons.
+
+According to the study's authors, future experiments exploring different reaction mechanisms and potentially detecting tetraneutrons more directly will provide deeper insights into the nature of these enigmatic particles. 
+
+This discovery opens up exciting new avenues in the study of nuclear physics, challenging existing theories and inviting further exploration into the world of subatomic particles.
+
+#### Reference
+
+* [Tetraneutron finally found](https://www.advancedsciencenews.com/tetraneutron-finally-found/), Advanced Science News
+* [Observation of a correlated free four-neutron system](https://www.nature.com/articles/s41586-022-04827-6), Nature (2022)
 
 
 
