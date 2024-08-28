@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      SNP School 2023 in Tokai Mura
+title:      Strangeness Nuclear Physics 2023: A Journey from Tohoku to Tokai-mura
 subtitle:   
 date:       2023-12-01
 author:     aj.arifi
