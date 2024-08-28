@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Strangeness Nuclear Physics 2023: A Journey from Tohoku to Tokai-mura
+title:      "Strangeness Nuclear Physics 2023: A Journey from Tohoku to Tokai-mura"
 subtitle:   
 date:       2023-12-01
 author:     aj.arifi
