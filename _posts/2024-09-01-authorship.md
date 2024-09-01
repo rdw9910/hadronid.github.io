@@ -48,11 +48,11 @@ The order in which authors are listed is not arbitrary; it often reflects the re
 - **First Author**: Typically, the first author is the person who made the most significant contribution to the research and writing of the paper. 
 This role often carries a lot of weight in academia.
 
-- **Last Author**: In many fields, the last author is the senior researcher or principal investigator who oversaw the project. 
-This position can be as prestigious as the first author.
-
 - **Middle Authors**: Those listed in between made substantial but lesser contributions compared to the first author. 
 Their work is crucial but may not be as central as that of the lead or senior author.
+
+- **Last Author**: In many fields, the last author is the senior researcher or principal investigator who oversaw the project. 
+This position can be as prestigious as the first author.
 
 #### The Pitfalls of Guest, Honorary, and Ghost Authorship
 
@@ -101,7 +101,7 @@ It is a key component of academic integrity, recognizing the hard work and intel
 contributions of researchers while holding them accountable. By understanding the criteria for authorship, 
 the significance of author order, and the importance of ethical practices, 
 researchers can navigate the complexities of academic authorship with confidence. 
-Whether you’re a seasoned researcher or just starting out, clarity in authorship will 
+Whether you’re a experienced researcher or just starting out, clarity in authorship will 
 ensure that your contributions—and those of your collaborators—are accurately and fairly recognized.
 
 
