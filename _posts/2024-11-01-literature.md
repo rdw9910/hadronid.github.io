@@ -22,6 +22,7 @@ Here, we outline ten practical and technical strategies to help you streamline t
 **Automated alerts** are your first line of defense against missing important updates.
 - **Google Scholar Alerts**: Create alerts for specific keywords related to your research interests. This way, new papers matching these topics will be sent directly to your inbox.
 - **Journal Alerts**: Subscribe to notifications from leading journals in your field to receive updates on newly published issues or individual articles.
+
 This strategy ensures you are the first to know when relevant research becomes available, reducing the time spent manually checking multiple sources.
 
 #### 2. Use Reference Management Tools
@@ -35,6 +36,7 @@ Organizing your literature is just as important as finding it. Reference managem
 Preprint servers are a treasure trove of the latest, often cutting-edge research, shared before formal peer review.
 - **arXiv and arXiv-sanity**: Regularly check these repositories or use tools like arXiv-sanity, which curates papers based on popularity and your reading history.
 - **RSS Feeds**: Subscribe to feeds of relevant categories (e.g., physics, computer science) to receive notifications when new papers are posted.
+  
 Preprint repositories allow you to stay ahead of the curve by accessing research before it appears in peer-reviewed journals.
 
 #### 4. Maintain a Reading Schedule
