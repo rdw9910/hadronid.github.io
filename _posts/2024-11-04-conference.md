@@ -4,7 +4,7 @@ title:      "Conferences in Hadron Physics and QCD: A Researcher's Guide"
 subtitle:   
 date:       2024-11-04
 author:     aj.arifi
-header-img: img/IMG_5313.JPG
+header-img: img/intro.jpeg
 catalog: true
 tags:
     - conference
