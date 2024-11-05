@@ -10,7 +10,18 @@ tags:
     - conference
 ---
 
-### 1. **International Conference on Hadron Spectroscopy and Structure (Hadron)**
+Hadron physics, with its focus on understanding the intricate structures and interactions of quarks and gluons, 
+remains a critical area within high-energy physics and quantum chromodynamics (QCD). 
+For researchers in this field, conferences offer not only the chance to share insights 
+and recent findings but also invaluable opportunities for collaboration and networking. 
+From hadron spectroscopy and structure to exotic states and heavy quark physics, 
+these events gather experts from across the globe to explore new experimental results and theoretical advancements.
+
+This post lists key conferences in hadron physics and related topics, offering a go-to resource for staying connected and informed. 
+As new events arise, we’ll update this post to keep it current and relevant for the research community.
+
+### 1. Hadron Series
+  - International Conference on Hadron Spectroscopy and Structure 
   - Topics: Hadron structure, spectroscopy, QCD exotics, and hadronic physics at facilities worldwide.
     - Osaka, Japan. 2025-03 (HADRON #21)
     - Genova, Italy. 2023-06 (HADRON #20)
@@ -35,7 +46,6 @@ tags:
     - College Park, United States. 1985-04 [(HADRON #1)](https://inspirehep.net/conferences/965770)
 
 
-### 2. **Quark Confinement and the Hadron Spectrum (Confinement)**
+### 2. Confinement Series
+  - Quark Confinement and the Hadron Spectrum
   - Topics: Quark confinement, hadron spectroscopy, lattice QCD, and non-perturbative QCD
-
-  - 
