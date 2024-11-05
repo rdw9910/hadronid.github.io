@@ -2,7 +2,7 @@
 layout:     post
 title:      "Conferences in Hadron Physics and QCD: A Researcher's Guide"
 subtitle:   
-date:       2023-11-04
+date:       2024-11-04
 author:     aj.arifi
 header-img: img/IMG_5313.JPG
 catalog: true
