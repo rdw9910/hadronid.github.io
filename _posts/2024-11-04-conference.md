@@ -35,17 +35,33 @@ As new events arise, we’ll update this post to keep it current and relevant fo
     - (HADRON #12) Frascati, Italy. 2007-10 
     - (HADRON #11) Rio de Janerio, Brazil. 2005-08 
     - (HADRON #10) Aschaffenburg, Germany. 2003-08 
-    - (HADRON #9) Protvino, Russia. 2001-10 
-    - (HADRON #8) Beijing, China. 1999-08 
-    - (HADRON #7) Upton, United States. 1997-08 
-    - (HADRON #6) Manchester, United Kingdom. 1995-07 
-    - (HADRON #5) Missing information. 1993* 
-    - (HADRON #4) College Park, United States. 1991-08 
-    - (HADRON #3) Ajaccio, France. 1989-09 
-    - (HADRON #2) Tsukuba, Japan. 1987-04 
-    - [(HADRON #1)](https://inspirehep.net/conferences/965770) College Park, United States. 1985-04 
+    - (HADRON #09) Protvino, Russia. 2001-10 
+    - (HADRON #08) Beijing, China. 1999-08 
+    - (HADRON #07) Upton, United States. 1997-08 
+    - (HADRON #06) Manchester, United Kingdom. 1995-07 
+    - (HADRON #05) Missing information. 1993* 
+    - (HADRON #04) College Park, United States. 1991-08 
+    - (HADRON #03) Ajaccio, France. 1989-09 
+    - (HADRON #02) Tsukuba, Japan. 1987-04 
+    - [(HADRON #01)](https://inspirehep.net/conferences/965770) College Park, United States. 1985-04 
 
 
 ### 2. Confinement Series
   - Quark Confinement and the Hadron Spectrum
   - Topics: Quark confinement, hadron spectroscopy, lattice QCD, and non-perturbative QCD
+    - (Confinement #16) Cairns, Australia. 2024-08
+    - (Confinement #15) Stavanger, Norway. 2022-08
+    - (Confinement #14) Online, Norway. 2021-08
+    - (Confinement #13) Maynooth, Ireland. 2018-08
+    - (Confinement #12) Thessaloniki, Greece. 2016-08
+    - (Confinement #11) St. Peterburg, Russia. 2014-09
+    - (Confinement #10) Munich, Germany. 2012-10
+    - (Confinement #09) Madrid, Spain. 2010-08
+    - (Confinement #08) Mainz, Germany. 2008-09
+    - (Confinement #07) Azores, Portugal. 2006-09
+    - (Confinement #06) Sardinia, Italy. 2004-09
+    - (Confinement #05) Brescia, Italy. 2002-09
+    - (Confinement #04) Vienna, Austria. 2000-07
+    - (Confinement #03) Newport News, United States. 1998-06
+    - (Confinement #02) Como, Italy. 1994-06
+    - (Confinement #01) Como, Italy. 1994-06
