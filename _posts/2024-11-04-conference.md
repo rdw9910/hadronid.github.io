@@ -39,7 +39,7 @@ As new events arise, we’ll update this post to keep it current and relevant fo
     - (HADRON #08) Beijing, China. 1999-08 
     - (HADRON #07) Upton, United States. 1997-08 
     - (HADRON #06) Manchester, United Kingdom. 1995-07 
-    - (HADRON #05) Missing information. 1993* 
+    - (HADRON #05) Como, Italy. 1993-07 
     - (HADRON #04) College Park, United States. 1991-08 
     - (HADRON #03) Ajaccio, France. 1989-09 
     - (HADRON #02) Tsukuba, Japan. 1987-04 
@@ -47,7 +47,7 @@ As new events arise, we’ll update this post to keep it current and relevant fo
 
 
 ### 2. Confinement Series
-  - Quark Confinement and the Hadron Spectrum
+  - International Conference on Quark Confinement and the Hadron Spectrum
   - Topics: Quark confinement, hadron spectroscopy, lattice QCD, and non-perturbative QCD
     - (Confinement #16) Cairns, Australia. 2024-08
     - (Confinement #15) Stavanger, Norway. 2022-08
@@ -65,3 +65,34 @@ As new events arise, we’ll update this post to keep it current and relevant fo
     - (Confinement #03) Newport News, United States. 1998-06
     - (Confinement #02) Como, Italy. 1994-06
     - (Confinement #01) Como, Italy. 1994-06
+   
+### 3. Baryons Series
+  - International Conference on the Structure of Baryons
+  - Topics: Baryon spescroscopy, structure, and interaction
+      - (Baryons #17) Jeju, South Korea. 2025-11
+      - (Baryons #16) Seville, Spain. 2022-11
+      - (Baryons #15) Seville, Spain. 2021-10
+      - (Baryons #14) Tallahasee, United States. 2016-05
+      - (Baryons #13) Glasgow, United Kingdom. 2013-06
+      - (Baryons #12) Osaka, Japan. 2010-12
+      - (Baryons #11) Seoul, South Korea. 2007-06
+      - (Baryons #10) Palaiseau, France. 2004-10
+      - (Baryons #09) Newport News, United States. 2002-03
+      - (Baryons #08) Bonn, Germany. 1998-09
+      - (Baryons #07) Santa Fe, United States. 1995-10
+      - (Baryons #06) New Haven, United States. 1992-06
+      - (Baryons #01) Duke University, United States. 1970
+   
+### 4. QNP Series
+   - International Conference on Quarks and Nuclear Physics
+   - Topics: hadron and nuclear structure, and hot and cold dense matter.
+       - (QNP #10) Barcelona, Spain. 2024-07
+       - (QNP #09) Tallahassee, United States. 2022-09
+       - (QNP #08) Tsukuba, Japan.  2018-11
+       - (QNP #07) Valparaiso, Chile. 2015-03
+       - (QNP #06) Palaiseau, France. 2012-04
+       - (QNP #05) Beijing, China. 2009-09
+       - (QNP #04) Madrid, Spain. 2006-06
+       - (QNP #03) Julich, Germany. 2002-06
+       - (QNP #02) Adelaide, Australia. 2000-02
+       - (QNP #01) Osaka, Japan. 1997
