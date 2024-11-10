@@ -69,30 +69,58 @@ As new events arise, we’ll update this post to keep it current and relevant fo
 ### 3. Baryons Series
   - International Conference on the Structure of Baryons
   - Topics: Baryon spescroscopy, structure, and interaction
-      - (Baryons #17) Jeju, South Korea. 2025-11
-      - (Baryons #16) Seville, Spain. 2022-11
-      - (Baryons #15) Seville, Spain. 2021-10
-      - (Baryons #14) Tallahasee, United States. 2016-05
-      - (Baryons #13) Glasgow, United Kingdom. 2013-06
-      - (Baryons #12) Osaka, Japan. 2010-12
-      - (Baryons #11) Seoul, South Korea. 2007-06
-      - (Baryons #10) Palaiseau, France. 2004-10
-      - (Baryons #09) Newport News, United States. 2002-03
-      - (Baryons #08) Bonn, Germany. 1998-09
-      - (Baryons #07) Santa Fe, United States. 1995-10
-      - (Baryons #06) New Haven, United States. 1992-06
-      - (Baryons #01) Duke University, United States. 1970
+      - (Baryons 2025) Jeju, South Korea. 2025-11
+      - (Baryons 2022) Seville, Spain. 2022-11
+      - (Baryons 2021) Seville, Spain. 2021-10
+      - (Baryons 2016) Tallahasee, United States. 2016-05
+      - (Baryons 2013) Glasgow, United Kingdom. 2013-06
+      - (Baryons 2010) Osaka, Japan. 2010-12
+      - (Baryons 2007) Seoul, South Korea. 2007-06
+      - (Baryons 2004) Palaiseau, France. 2004-10
+      - (Baryons 2002) Newport News, United States. 2002-03
+      - (Baryons 1998) Bonn, Germany. 1998-09
+      - (Baryons 1995) Santa Fe, United States. 1995-10
+      - (Baryons 1992) New Haven, United States. 1992-06
+      - (Baryons 1970) Duke University, United States. 1970
    
 ### 4. QNP Series
    - International Conference on Quarks and Nuclear Physics
    - Topics: hadron and nuclear structure, and hot and cold dense matter.
-       - (QNP #10) Barcelona, Spain. 2024-07
-       - (QNP #09) Tallahassee, United States. 2022-09
-       - (QNP #08) Tsukuba, Japan.  2018-11
-       - (QNP #07) Valparaiso, Chile. 2015-03
-       - (QNP #06) Palaiseau, France. 2012-04
-       - (QNP #05) Beijing, China. 2009-09
-       - (QNP #04) Madrid, Spain. 2006-06
-       - (QNP #03) Julich, Germany. 2002-06
-       - (QNP #02) Adelaide, Australia. 2000-02
-       - (QNP #01) Osaka, Japan. 1997
+       - (QNP 2024) Barcelona, Spain. 2024-07
+       - (QNP 2022) Tallahassee, United States. 2022-09
+       - (QNP 2018) Tsukuba, Japan.  2018-11
+       - (QNP 2015) Valparaiso, Chile. 2015-03
+       - (QNP 2012) Palaiseau, France. 2012-04
+       - (QNP 2009) Beijing, China. 2009-09
+       - (QNP 2006) Madrid, Spain. 2006-06
+       - (QNP 2002) Julich, Germany. 2002-06
+       - (QNP 2000) Adelaide, Australia. 2000-02
+       - (QNP 1997) Osaka, Japan. 1997
+
+### 5. Light Cone Series
+   - International Conference on Hadrons on the Light Cone
+   - Topics: hadron structure, light cone, partonic structure
+       - (Light-Cone 2024) Huizou, China. 2024-11
+       - (Light-Cone 2022) Online, Russia. 2022-11
+       - [(Light-Cone 2021)](https://indico.cern.ch/event/938795/) Jeju, South Korea. 2021-11
+       - (Light-Cone 2019)
+       - (Light-Cone 2018)
+       - (Light-Cone 2017)
+       - (Light-Cone 2016)
+       - (Light-Cone 2015)
+       - (Light-Cone 2014)
+       - (Light-Cone 2013)
+       - (Light-Cone 2012)
+       - (Light-Cone 2010)
+       - (Light-Cone 2009)
+       - (Light-Cone 2008)
+       - (Light-Cone 2007)
+       - (Light-Cone 2006)
+       - (Light-Cone 2005)
+       - (Light-Cone 2004)
+       - (Light-Cone 2003)
+       - (Light-Cone 2002)
+       - (Light-Cone 1999)
+       - (Light-Cone 1992)
+       - (Light-Cone 1991)
+        
