@@ -157,4 +157,20 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (Hard Probe 2008)
        - (Hard Probe 2006)
        - (Hard Probe 2004) 
-        
+
+### 8. Few Body Series
+   - International Conference on Few-Body Problems in Physics
+   - Topics: few-body, hadron, nuclei, atom, molecule
+       - [(Few Body 2024)](https://indico.ihep.ac.cn/event/21083/) Beijing, China. 
+      
+
+### 9. APFB Series
+   - Asia-Pacific Conference on Few-Body Problems in Physics
+   - Topics: few-body, hadron, nuclei, atom, molecule
+       - [(APFB 2020)](https://indico.rcnp.osaka-u.ac.jp/event/1457/overview) Online, Japan.
+
+### 10. EFB Series
+   - European Conference on Few-Body Problems in Physics
+   - Topics: few-body, hadron, nuclei, atom, molecule
+       - [(APFB 2023)](https://indico.him.uni-mainz.de/event/150/overview) Mainz, Germany.
+    
