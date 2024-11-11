@@ -115,50 +115,32 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (HYP 1985)
        - (HYP 1982)
 
-### 6. Light Cone Series
+### 6. LC Series
    - International Conference on Hadrons on the Light Cone
    - Topics: hadron structure, light cone, partonic structure
-       - (Light Cone 2024) Huizou, China. 
-       - (Light Cone 2022) Online, Russia. 
-       - [(Light Cone 2021)](https://indico.cern.ch/event/938795/) Jeju, South Korea.
-       - (Light Cone 2019)
-       - (Light Cone 2018)
-       - (Light Cone 2017)
-       - (Light Cone 2016)
-       - (Light Cone 2015)
-       - (Light Cone 2014)
-       - (Light Cone 2013)
-       - (Light Cone 2012)
-       - (Light Cone 2010)
-       - (Light Cone 2009)
-       - (Light Cone 2008)
-       - (Light Cone 2007)
-       - (Light Cone 2006)
-       - (Light Cone 2005)
-       - (Light Cone 2004)
-       - (Light Cone 2003)
-       - (Light Cone 2002)
-       - (Light Cone 1999)
-       - (Light Cone 1992)
-       - (Light Cone 1991)
+       - (LC 2024) Huizou, China. 
+       - (LC 2022) Online, Russia. 
+       - [(LC 2021)](https://indico.cern.ch/event/938795/) Jeju, South Korea.
+       - (LC 2019)
+       - (LC 2018)
+       - (LC 2017)
+       - (LC 2016)
+       - (LC 2015)
+       - (LC 2014)
     
-### 7. Hard Probe Series
+### 7. HP Series
    - International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions
    - Topics: jet, quarkonia, nuclear PDF, high-momentum hadrons
-       - [(Hard Probe 2024)](https://indico.cern.ch/event/1339555/) Nagasaki, Japan. 
-       - (Hard Probe 2022)
-       - (Hard Probe 2020)
-       - (Hard Probe 2018)
-       - (Hard Probe 2016)
-       - (Hard Probe 2015)
-       - (Hard Probe 2013)
-       - (Hard Probe 2012)
-       - (Hard Probe 2010)
-       - (Hard Probe 2008)
-       - (Hard Probe 2006)
-       - (Hard Probe 2004) 
+       - [(HP 2024)](https://indico.cern.ch/event/1339555/) Nagasaki, Japan. 
+       - (HP 2022)
+       - (HP 2020)
+       - (HP 2018)
+       - (HP 2016)
+       - (HP 2015)
+       - (HP 2013)
+       - (HP 2012)
 
-### 8. Few Body Series
+### 8. FB Series
    - International Conference on Few-Body Problems in Physics
    - Topics: few-body, hadron, nuclei, atom, molecule
        - [(Few Body 2024)](https://indico.ihep.ac.cn/event/21083/) Beijing, China. 
@@ -205,7 +187,7 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (Meson 2002)
        - (Meson 1996)
 
-### 13. Quark Matter Series
+### 13. QM Series
    - International Conference on Ultra-relativistic Nucleus-Nucleus Collisions
    - Topics: QCD phase diagram, Chirality, QCD matter.
        - [(QM 2025)](https://indico.cern.ch/event/1334113/) Frankfurt, Germany.
@@ -216,13 +198,13 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (SQM 2024) Strasbourg, France.
        - [(SQM 2022)](https://indico.cern.ch/event/1037821/) Busan, South Korea.
 
-### 15. Chiral Dynamics Series
+### 15. CD Series
    - International Workshop on Chiral Dynamics
    - Topics: Goldstone-boson dynamics, few-body sytems, and hadron structure.
-       - [(Chiral Dynamics 2024)](https://www.indico.tp2.ruhr-uni-bochum.de/event/2/) Bochum, Germany.
-       - (Chiral Dynamics 2021)
-       - (Chiral Dynamics 2018)
-       - (Chiral Dynamics 2015)
+       - [(CD 2024)](https://www.indico.tp2.ruhr-uni-bochum.de/event/2/) Bochum, Germany.
+       - (CD 2021)
+       - (CD 2018)
+       - (CD 2015)
 
 ### 16. INPC Series
    - International Conference on Nuclear Physics
