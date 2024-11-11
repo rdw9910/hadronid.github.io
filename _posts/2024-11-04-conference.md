@@ -97,7 +97,26 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (QNP 2000) Adelaide, Australia. 2000-02
        - (QNP 1997) Osaka, Japan. 1997
 
-### 5. Light Cone Series
+### 5. HYP Series
+   - International Conference on Hypernulear and Strange Particle Physics
+   - Topics: hypernuclei, strangeness, heavy-ion collision, astrophysics
+       - (HYP 2025) Tokyo, Japan.
+       - [(HYP 2022)](https://indico.cern.ch/event/896088/) Prague, Czech Republic. 2022-06
+       - (HYP 2018)
+       - (HYP 2015)
+       - (HYP 2012)
+       - (HYP 2009)
+       - (HYP 2006)
+       - (HYP 2003)
+       - (HYP 2000)
+       - (HYP 1997)
+       - (HYP 1994)
+       - (HYP 1991)
+       - (HYP 1988)
+       - (HYP 1985)
+       - (HYP 1982)
+
+### 6. Light Cone Series
    - International Conference on Hadrons on the Light Cone
    - Topics: hadron structure, light cone, partonic structure
        - (Light-Cone 2024) Huizou, China. 2024-11
