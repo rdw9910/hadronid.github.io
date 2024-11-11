@@ -143,7 +143,7 @@ As new events arise, we’ll update this post to keep it current and relevant fo
 ### 8. FB Series
    - International Conference on Few-Body Problems in Physics
    - Topics: few-body, hadron, nuclei, atom, molecule
-       - [(Few Body 2024)](https://indico.ihep.ac.cn/event/21083/) Beijing, China. 
+       - [(FB 2024)](https://indico.ihep.ac.cn/event/21083/) Beijing, China. 
       
 
 ### 9. APFB Series
@@ -233,8 +233,9 @@ As new events arise, we’ll update this post to keep it current and relevant fo
    - International Symposium on Science at J-PARC
    - Topics: Particle and nuclear physics, and accelerator science
        - [(J-PARC 2024)](https://conference-indico.kek.jp/event/287/) Mito, Japan.
-       - (PANIC 2019)
-       - (PANIC 2014)
+       - (J-PARC 2019)
+       - (J-PARC 2014)
+       - (J-PARC 2009)
 
 ### 20. CHEP Series
    - International Conference on Computing in High Energy and Nuclear Physics
