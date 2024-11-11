@@ -236,5 +236,74 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (PANIC 2019)
        - (PANIC 2014)
 
+### 20. CHEP Series
+   - International Conference on Computing in High Energy and Nuclear Physics
+   - Topics: Simulation, computing infrastructure
+       - (CHEP 2026) Bangkok, Thailand.
+       - [(CHEP 2024)](https://indico.cern.ch/event/1338689/overview) Krakow, Poland.
+       - (CHEP 2023)
+       - (CHEP 2021)
 
+### 21. Lattice Series
+   - International Symposium on Lattice Field Theory
+   - Topics: Lattice QCD
+       - [(Lattice 2024)](https://conference.ippp.dur.ac.uk/event/1265/) Liverpool, UK.
+       - (Lattice 2023) Batavia, USA.
+       - (Lattice 2022) Bonn, Germany.
+       
+### 22. XQCD Series
+   - International Conference on QCD in Extreme Conditions
+   - Topics: QCD at Finite Temperature and Density, QGP
+       - [(XQCD 2025)](https://indico.cern.ch/event/1465523/) Wroclaw, Poland.
+       - (XQCD 2024) Lanzhou, China.
+       - (XQCD 2023) Coimbra, Portugal.
+
+### 23. Kaon Series
+   - International Conference on Kaon Physics
+   - Topics: CP and T violation, CKM matrix, flavor mixing, Rare decays
+       - (Kaon 2025) Mainz, Germany.
+       - [(Kaon 2022)](https://conference-indico.kek.jp/event/169/)  Osaka, Japan.
+       - (Kaon 2019) Perugia, Italy
+
+### 24. EuNPC Series
+   - European Conference on Nuclear Physics
+   - Topics: Hadron and Nuclear Physics.
+       - [(EuNPC 2025)](https://indico.in2p3.fr/event/30430/)  Caen, France.
+       - (EuNPC 2022)
+       - (EuNPC 2018)
+
+### 25. DIS Series
+   - International Workshop on Deep-Inelastic Scattering and Related Subjects
+   - Topics: Structure Functions and Parton Densities, Small x.
+       - [(DIS 2024)](https://lpsc-indico.in2p3.fr/event/3268/)  Grenoble, France.
+       - (DIS 2023) East Lansing, USA.
+       - (DIS 2022) Santiago de Compostela, Spain.
+    
+### 25. ATHIC Series
+   - Asian Triangle Heavy-Ion Conference
+   - Topics: QCD Phase Diagram, Heavy-ion collision, hard probe.
+       - [(ATHIC 2025)](https://indico.cern.ch/event/1424442/overview)  Odisha, India.
+       - (ATHIC 2023) Hiroshima, Japan
+       - (ATHIC 2021) Incheon, South Korea
+       - (ATHIC 2018) Hefei, China.
+       - (ATHIC 2016) New Delhi, India.
+       - (ATHIC 2014) Osaka, Japan.
+       - (ATHIC 2012) Pusan, South Korea.
+       - (ATHIC 2010) Wuhan, China.
+       - (ATHIC 2008) Tsukuba, Japan.
+       - (ATHIC 2006) Seoul, South Korea.
+
+### 25. PDFLattice Series
+   - International Workshop on Parton Distributions and Lattice Calculations
+   - Topics: QCD Phase Diagram, Heavy-ion collision, hard probe.
+       - [(PDFLattice 2025)](https://indico.cern.ch/event/1434067/)  News Port, USA.
+       - (PDFLattice 2019) Hickory Corners, USA.
+       - (PDFLattice 2017) Oxford, UK.
+
+### 25. QCD@LHC Series
+   - International Workshop on Parton Distributions and Lattice Calculations
+   - Topics: QCD Phase Diagram, Heavy-ion collision, hard probe.
+       - [(QCD@LHC 2024)](https://indico.cern.ch/event/1360294/)  Freiburg, Germany.
+       - (QCD@LHC 2023) Durham, UK.
+       - (QCD@LHC 2022) Orsay, France.
 
