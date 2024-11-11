@@ -23,27 +23,27 @@ As new events arise, we’ll update this post to keep it current and relevant fo
 ### 1. Hadron Series
   - International Conference on Hadron Spectroscopy and Structure 
   - Topics: Hadron structure, spectroscopy, QCD exotics, and hadronic physics at facilities worldwide.
-    - (HADRON #21) Osaka, Japan. 2025-03 
-    - (HADRON #20) Genova, Italy. 2023-06 
-    - (HADRON #19) Mexico city, Mexico. 2021-07 
-    - (HADRON #18) Guilin, China. 2019-08 
-    - (HADRON #17) Salamanca, Spain. 2017-09 
-    - (HADRON #16) Newport News, United States. 2015-09 
-    - (HADRON #15) Nara, Japan. 2013-11 
-    - (HADRON #14) Munich, Germany. 2011-06 
-    - (HADRON #13) Tallahassee, United States. 2009-11 
-    - (HADRON #12) Frascati, Italy. 2007-10 
-    - (HADRON #11) Rio de Janerio, Brazil. 2005-08 
-    - (HADRON #10) Aschaffenburg, Germany. 2003-08 
-    - (HADRON #09) Protvino, Russia. 2001-10 
-    - (HADRON #08) Beijing, China. 1999-08 
-    - (HADRON #07) Upton, United States. 1997-08 
-    - (HADRON #06) Manchester, United Kingdom. 1995-07 
-    - (HADRON #05) Como, Italy. 1993-07 
-    - (HADRON #04) College Park, United States. 1991-08 
-    - (HADRON #03) Ajaccio, France. 1989-09 
-    - (HADRON #02) Tsukuba, Japan. 1987-04 
-    - [(HADRON #01)](https://inspirehep.net/conferences/965770) College Park, United States. 1985-04 
+    - (Hadron #21) Osaka, Japan. 2025-03 
+    - (Hadron #20) Genova, Italy. 2023-06 
+    - (Hadron #19) Mexico city, Mexico. 2021-07 
+    - (Hadron #18) Guilin, China. 2019-08 
+    - (Hadron #17) Salamanca, Spain. 2017-09 
+    - (Hadron #16) Newport News, United States. 2015-09 
+    - (Hadron #15) Nara, Japan. 2013-11 
+    - (Hadron #14) Munich, Germany. 2011-06 
+    - (Hadron #13) Tallahassee, United States. 2009-11 
+    - (Hadron #12) Frascati, Italy. 2007-10 
+    - (Hadron #11) Rio de Janerio, Brazil. 2005-08 
+    - (Hadron #10) Aschaffenburg, Germany. 2003-08 
+    - (Hadron #09) Protvino, Russia. 2001-10 
+    - (Hadron #08) Beijing, China. 1999-08 
+    - (Hadron #07) Upton, United States. 1997-08 
+    - (Hadron #06) Manchester, United Kingdom. 1995-07 
+    - (Hadron #05) Como, Italy. 1993-07 
+    - (Hadron #04) College Park, United States. 1991-08 
+    - (Hadron #03) Ajaccio, France. 1989-09 
+    - (Hadron #02) Tsukuba, Japan. 1987-04 
+    - [(Hadron #01)](https://inspirehep.net/conferences/965770) College Park, United States. 1985-04 
 
 
 ### 2. Confinement Series
@@ -101,7 +101,7 @@ As new events arise, we’ll update this post to keep it current and relevant fo
    - International Conference on Hypernulear and Strange Particle Physics
    - Topics: hypernuclei, strangeness, heavy-ion collision, astrophysics
        - (HYP 2025) Tokyo, Japan.
-       - [(HYP 2022)](https://indico.cern.ch/event/896088/) Prague, Czech Republic. 2022-06
+       - [(HYP 2022)](https://indico.cern.ch/event/896088/) Prague, Czech Republic.
        - (HYP 2018)
        - (HYP 2015)
        - (HYP 2012)
@@ -119,27 +119,43 @@ As new events arise, we’ll update this post to keep it current and relevant fo
 ### 6. Light Cone Series
    - International Conference on Hadrons on the Light Cone
    - Topics: hadron structure, light cone, partonic structure
-       - (Light-Cone 2024) Huizou, China. 2024-11
-       - (Light-Cone 2022) Online, Russia. 2022-11
-       - [(Light-Cone 2021)](https://indico.cern.ch/event/938795/) Jeju, South Korea. 2021-11
-       - (Light-Cone 2019)
-       - (Light-Cone 2018)
-       - (Light-Cone 2017)
-       - (Light-Cone 2016)
-       - (Light-Cone 2015)
-       - (Light-Cone 2014)
-       - (Light-Cone 2013)
-       - (Light-Cone 2012)
-       - (Light-Cone 2010)
-       - (Light-Cone 2009)
-       - (Light-Cone 2008)
-       - (Light-Cone 2007)
-       - (Light-Cone 2006)
-       - (Light-Cone 2005)
-       - (Light-Cone 2004)
-       - (Light-Cone 2003)
-       - (Light-Cone 2002)
-       - (Light-Cone 1999)
-       - (Light-Cone 1992)
-       - (Light-Cone 1991)
+       - (Light Cone 2024) Huizou, China. 2024-11
+       - (Light Cone 2022) Online, Russia. 2022-11
+       - [(Light Cone 2021)](https://indico.cern.ch/event/938795/) Jeju, South Korea.
+       - (Light Cone 2019)
+       - (Light Cone 2018)
+       - (Light Cone 2017)
+       - (Light Cone 2016)
+       - (Light Cone 2015)
+       - (Light Cone 2014)
+       - (Light Cone 2013)
+       - (Light Cone 2012)
+       - (Light Cone 2010)
+       - (Light Cone 2009)
+       - (Light Cone 2008)
+       - (Light Cone 2007)
+       - (Light Cone 2006)
+       - (Light Cone 2005)
+       - (Light Cone 2004)
+       - (Light Cone 2003)
+       - (Light Cone 2002)
+       - (Light Cone 1999)
+       - (Light Cone 1992)
+       - (Light Cone 1991)
+    
+### 7. Hard Probe Series
+   - International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions
+   - Topics: jet, quarkonia, nuclear PDF, high-momentum hadrons
+       - [(Hard Probe 2024)](https://indico.cern.ch/event/1339555/) Nagasaki, Japan. 
+       - (Hard Probe 2022)
+       - (Hard Probe 2020)
+       - (Hard Probe 2018)
+       - (Hard Probe 2016)
+       - (Hard Probe 2015)
+       - (Hard Probe 2013)
+       - (Hard Probe 2012)
+       - (Hard Probe 2010)
+       - (Hard Probe 2008)
+       - (Hard Probe 2006)
+       - (Hard Probe 2004) 
         
