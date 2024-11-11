@@ -172,5 +172,5 @@ As new events arise, we’ll update this post to keep it current and relevant fo
 ### 10. EFB Series
    - European Conference on Few-Body Problems in Physics
    - Topics: few-body, hadron, nuclei, atom, molecule
-       - [(APFB 2023)](https://indico.him.uni-mainz.de/event/150/overview) Mainz, Germany.
+       - [(EFB 2023)](https://indico.him.uni-mainz.de/event/150/overview) Mainz, Germany.
     
