@@ -174,3 +174,18 @@ As new events arise, we’ll update this post to keep it current and relevant fo
    - Topics: few-body, hadron, nuclei, atom, molecule
        - [(EFB 2023)](https://indico.him.uni-mainz.de/event/150/overview) Mainz, Germany.
     
+### 11. MENU Series
+   - International Conference on Meson-Nucleon Physics and the Structure of the Nucleon
+   - Topics: Nucleon structure, hadron spectroscopy
+       - [(MENU 2023)](https://indico.him.uni-mainz.de/event/171/) Mainz, Germany.
+       - (MENU 2019) Pittsburgh, USA.
+       - (MENU 2016) Kyoto, Japan.
+       - (MENU 2013) Rome, Italy.
+       - (MENU 2010) Williamsburg, USA.
+       - (MENU 2007) Jülich, Germany.
+       - (MENU 2004) Beijing, China.
+       - (MENU 2003) Beijing, China.
+       - (MENU 2001) Washington, USA.
+       - (MENU 1999) Zuoz, Switzerland.
+       - (MENU 1997) Vancouver, Canada.
+    
