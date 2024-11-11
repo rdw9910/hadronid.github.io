@@ -307,3 +307,9 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (QCD@LHC 2023) Durham, UK.
        - (QCD@LHC 2022) Orsay, France.
 
+### 29. ISMD Series
+   - International Symposium on Multiparticle Dynamics
+   - Topics: Femtoscopy, Forward physics, Jet, Small-x.
+       - [(ISMD 2023)](https://indico.cern.ch/event/1258038/overview)  Gyöngyös, Hungary.
+       - (ISMD 2022) Scotland, UK.
+       - (ISMD 2021) Online, UK.
