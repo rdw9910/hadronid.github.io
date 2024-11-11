@@ -188,4 +188,64 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (MENU 2001) Washington, USA.
        - (MENU 1999) Zuoz, Switzerland.
        - (MENU 1997) Vancouver, Canada.
-    
+
+### 12. Meson Series
+   - International Workshop on Meson Physics
+   - Topics: meson structure, spesctorscopy, production, and interaction.
+       - [(Meson 2023)](https://indico.meson.if.uj.edu.pl/event/3/) Krakow, Poland.
+       - (Meson 2020)
+       - (Meson 2018)
+       - (Meson 2016)
+       - (Meson 2014)
+       - (Meson 2012)
+       - (Meson 2010)
+       - (Meson 2008)
+       - (Meson 2006)
+       - (Meson 2004)
+       - (Meson 2002)
+       - (Meson 1996)
+
+### 13. Quark Matter Series
+   - International Conference on Ultra-relativistic Nucleus-Nucleus Collisions
+   - Topics: QCD phase diagram, Chirality, QCD matter.
+       - [(QM 2025)](https://indico.cern.ch/event/1334113/) Frankfurt, Germany.
+
+### 14. SQM Series
+   - International Conference on Strangeness in Quark Matter
+   - Topics: Strangeness in nuclear collision and astrophysics.
+       - (SQM 2024) Strasbourg, France.
+       - [(SQM 2022)](https://indico.cern.ch/event/1037821/) Busan, South Korea.
+
+### 15. Chiral Dynamics Series
+   - International Workshop on Chiral Dynamics
+   - Topics: Goldstone-boson dynamics, few-body sytems, and hadron structure.
+       - [(Chiral Dynamics 2024)](https://www.indico.tp2.ruhr-uni-bochum.de/event/2/) Bochum, Germany.
+       - (Chiral Dynamics 2021)
+       - (Chiral Dynamics 2018)
+       - (Chiral Dynamics 2015)
+
+### 16. INPC Series
+   - International Conference on Nuclear Physics
+   - Topics: Nuclear and hadron physics.
+       - [(INPC 2022)](https://www.indico.tp2.ruhr-uni-bochum.de/event/2/) Cape Town, South Africa.
+       - (INPC 2019)
+       - (INPC 2016)
+       - (INPC 2013)
+
+### 17. NSTAR Series
+   - International Workshop on the Physics of Excited Nucleons
+   - Topics: Baryon structure, spectrum, and production.
+       - (NSTAR 2024) York, UK.
+       - [(NSTAR 2022)](https://agenda.infn.it/event/28729/) Genova, Italy.
+       - (NSTAR 2019)
+
+### 18. PANIC Series
+   - International Conference on Particles and Nuclei
+   - Topics: Hot and dense matter physics, hadrons in medium.
+       - [(PANIC 2021)](https://indico.lip.pt/event/592/) Lisbon, Portugal.
+       - (PANIC 2017)
+       - (PANIC 2014)
+       - (PANIC 2011)
+
+
+
