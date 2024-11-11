@@ -229,5 +229,12 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (PANIC 2014)
        - (PANIC 2011)
 
+### 19. J-PARC Series
+   - International Symposium on Science at J-PARC
+   - Topics: Particle and nuclear physics, and accelerator science
+       - [(J-PARC 2024)](https://conference-indico.kek.jp/event/287/) Mito, Japan.
+       - (PANIC 2019)
+       - (PANIC 2014)
+
 
 
