@@ -279,7 +279,7 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (DIS 2023) East Lansing, USA.
        - (DIS 2022) Santiago de Compostela, Spain.
     
-### 25. ATHIC Series
+### 26. ATHIC Series
    - Asian Triangle Heavy-Ion Conference
    - Topics: QCD Phase Diagram, Heavy-ion collision, hard probe.
        - [(ATHIC 2025)](https://indico.cern.ch/event/1424442/overview)  Odisha, India.
@@ -293,14 +293,14 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (ATHIC 2008) Tsukuba, Japan.
        - (ATHIC 2006) Seoul, South Korea.
 
-### 25. PDFLattice Series
+### 27. PDFLattice Series
    - International Workshop on Parton Distributions and Lattice Calculations
    - Topics: QCD Phase Diagram, Heavy-ion collision, hard probe.
        - [(PDFLattice 2025)](https://indico.cern.ch/event/1434067/)  News Port, USA.
        - (PDFLattice 2019) Hickory Corners, USA.
        - (PDFLattice 2017) Oxford, UK.
 
-### 25. QCD@LHC Series
+### 28. QCD@LHC Series
    - International Workshop on Parton Distributions and Lattice Calculations
    - Topics: QCD Phase Diagram, Heavy-ion collision, hard probe.
        - [(QCD@LHC 2024)](https://indico.cern.ch/event/1360294/)  Freiburg, Germany.
