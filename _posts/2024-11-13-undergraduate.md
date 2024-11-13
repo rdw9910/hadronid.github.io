@@ -76,7 +76,7 @@ here’s a breakdown of the key lectures that form the backbone of a solid under
    - **Nuclear Physics**: Study nuclear decay, reactions, and binding energy.
    - **Particle Physics**: Learn about the fundamental particles and the Standard Model, our best understanding of the universe’s building blocks.
 
-### 8. Mathematical Methods for Physics 
+### 8. Mathematical Physics 
    Math is essential in physics, and students will encounter a range of mathematical tools.
    
    - **Vector Calculus**: Important for electromagnetism, covering divergence, curl, and integrals.
