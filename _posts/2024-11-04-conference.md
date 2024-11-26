@@ -20,7 +20,7 @@ these events gather experts from across the globe to explore new experimental re
 This post lists key conferences in hadron physics and related topics, offering a go-to resource for staying connected and informed. 
 As new events arise, we’ll update this post to keep it current and relevant for the research community.
 
-### 1. Hadron Series
+### Hadron Series
   - International Conference on Hadron Spectroscopy and Structure 
   - Topics: Hadron structure, spectroscopy, QCD exotics, and hadronic physics at facilities worldwide.
     - (Hadron 2025) Osaka, Japan.
@@ -29,24 +29,9 @@ As new events arise, we’ll update this post to keep it current and relevant fo
     - (Hadron 2019) Guilin, China.
     - (Hadron 2017) Salamanca, Spain.
     - (Hadron 2015) Newport News, USA. 
-    - (Hadron 2013) Nara, Japan.  
-    - (Hadron 2011) Munich, Germany.  
-    - (Hadron 2009) Tallahassee, USA.  
-    - (Hadron 2007) Frascati, Italy.  
-    - (Hadron 2005) Rio de Janerio, Brazil. 
-    - (Hadron 2003) Aschaffenburg, Germany.  
-    - (Hadron 2001) Protvino, Russia.  
-    - (Hadron 1999) Beijing, China. 
-    - (Hadron 1997) Upton, USA. 
-    - (Hadron 1995) Manchester, UK.  
-    - (Hadron 1993) Como, Italy. 
-    - (Hadron 1991) College Park, USA. 
-    - (Hadron 1989) Ajaccio, France.
-    - (Hadron 1987) Tsukuba, Japan. 
-    - (Hadron 1985) College Park, USA.
 
 
-### 2. Confinement Series
+### Confinement Series
   - International Conference on Quark Confinement and the Hadron Spectrum
   - Topics: Quark confinement, hadron spectroscopy, lattice QCD, and non-perturbative QCD
     - (Confinement 2024) Cairns, Australia.
@@ -55,17 +40,8 @@ As new events arise, we’ll update this post to keep it current and relevant fo
     - (Confinement 2018) Maynooth, Ireland.
     - (Confinement 2016) Thessaloniki, Greece.
     - (Confinement 2014) St. Peterburg, Russia. 
-    - (Confinement 2012) Munich, Germany. 
-    - (Confinement 2010) Madrid, Spain. 
-    - (Confinement 2008) Mainz, Germany. 
-    - (Confinement 2006) Azores, Portugal. 
-    - (Confinement 2004) Sardinia, Italy. 
-    - (Confinement 2002) Brescia, Italy. 
-    - (Confinement 2000) Vienna, Austria. 
-    - (Confinement 1998) Newport News, USA.
-    - (Confinement 1994) Como, Italy.
    
-### 3. Baryons Series
+### Baryons Series
   - International Conference on the Structure of Baryons
   - Topics: Baryon spescroscopy, structure, and interaction
       - (Baryons 2025) Jeju, South Korea. 
@@ -74,15 +50,8 @@ As new events arise, we’ll update this post to keep it current and relevant fo
       - (Baryons 2016) Tallahasee, USA. 
       - (Baryons 2013) Glasgow, UK. 
       - (Baryons 2010) Osaka, Japan. 
-      - (Baryons 2007) Seoul, South Korea. 
-      - (Baryons 2004) Palaiseau, France. 
-      - (Baryons 2002) Newport News, USA.
-      - (Baryons 1998) Bonn, Germany.
-      - (Baryons 1995) Santa Fe, USA. 
-      - (Baryons 1992) New Haven, USA. 
-      - (Baryons 1970) Duke University, USA. 
    
-### 4. QNP Series
+### QNP Series
    - International Conference on Quarks and Nuclear Physics
    - Topics: hadron and nuclear structure, and hot and cold dense matter.
        - (QNP 2024) Barcelona, Spain. 
@@ -90,73 +59,68 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (QNP 2018) Tsukuba, Japan.  
        - (QNP 2015) Valparaiso, Chile. 
        - (QNP 2012) Palaiseau, France. 
-       - (QNP 2009) Beijing, China. 
-       - (QNP 2006) Madrid, Spain. 
-       - (QNP 2002) Julich, Germany. 
-       - (QNP 2000) Adelaide, Australia. 
-       - (QNP 1997) Osaka, Japan. 
-
-### 5. HYP Series
+       - (QNP 2009) Beijing, China.
+    
+### HYP Series
    - International Conference on Hypernulear and Strange Particle Physics
    - Topics: hypernuclei, strangeness, heavy-ion collision, astrophysics
        - (HYP 2025) Tokyo, Japan.
        - [(HYP 2022)](https://indico.cern.ch/event/896088/) Prague, Czech Republic.
-       - (HYP 2018)
-       - (HYP 2015)
-       - (HYP 2012)
-       - (HYP 2009)
-       - (HYP 2006)
-       - (HYP 2003)
-       - (HYP 2000)
-       - (HYP 1997)
-       - (HYP 1994)
-       - (HYP 1991)
-       - (HYP 1988)
-       - (HYP 1985)
-       - (HYP 1982)
+       - [(HYP 2018)](https://www.jlab.org/conferences/hyp2018/) Norfolk/Portsmouth, USA.
+       - (HYP 2015) Sendai, Japan.
+       - (HYP 2012) Barcelona, Spain.
+       - (HYP 2009) Tokai, Japan.
 
-### 6. LC Series
+### LC Series
    - International Conference on Hadrons on the Light Cone
    - Topics: hadron structure, light cone, partonic structure
        - (LC 2024) Huizou, China. 
        - (LC 2022) Online, Russia. 
        - [(LC 2021)](https://indico.cern.ch/event/938795/) Jeju, South Korea.
-       - (LC 2019)
-       - (LC 2018)
-       - (LC 2017)
-       - (LC 2016)
-       - (LC 2015)
-       - (LC 2014)
+       - [(LC 2019)](https://indico.cern.ch/event/734913/) Palaiseau, France.
+       - (LC 2018) Jefferson Lab, USA.
+       - (LC 2017) Mumbai, India.
     
-### 7. HP Series
+### HP Series
    - International Conference on Hard and Electromagnetic Probes of High-Energy Nuclear Collisions
    - Topics: jet, quarkonia, nuclear PDF, high-momentum hadrons
        - [(HP 2024)](https://indico.cern.ch/event/1339555/) Nagasaki, Japan. 
-       - (HP 2022)
-       - (HP 2020)
-       - (HP 2018)
-       - (HP 2016)
-       - (HP 2015)
-       - (HP 2013)
-       - (HP 2012)
+       - (HP 2022) Aschaffenburg, Germany.
+       - (HP 2020) Texas, USA.
+       - (HP 2018) Aix-Les-Bains, France.
+       - (HP 2016) Wuhan, China.
+       - (HP 2015) Montreal, Canada.
 
-### 8. FB Series
+### FB Series
    - International Conference on Few-Body Problems in Physics
    - Topics: few-body, hadron, nuclei, atom, molecule
-       - [(FB 2024)](https://indico.ihep.ac.cn/event/21083/) Beijing, China. 
+       - [(FB 2024)](https://indico.ihep.ac.cn/event/21083/) Beijing, China.
+       - (FB 2018) Caen, France.
+       - (FB 2015) Chicago, USA.
+       - (FB 2012) Fukuoka, Japan.
+       - (FB 2009) Bonn, Germany.
       
 
-### 9. APFB Series
+### APFB Series
    - Asia-Pacific Conference on Few-Body Problems in Physics
    - Topics: few-body, hadron, nuclei, atom, molecule
        - [(APFB 2020)](https://indico.rcnp.osaka-u.ac.jp/event/1457/overview) Online, Japan.
-
-### 10. EFB Series
+       - (APFB 2017) Guilin, China.
+       - (APFB 2014) Adelaide, Australia.
+       - (APFB 2011) Seoul, South Korea.
+       - (APFB 2008) Depok, Indonesia.
+    
+### EFB Series
    - European Conference on Few-Body Problems in Physics
    - Topics: few-body, hadron, nuclei, atom, molecule
        - [(EFB 2023)](https://indico.him.uni-mainz.de/event/150/overview) Mainz, Germany.
+       - (EFB 2019) Guildford, UK.
+       - (EFB 2016) Aarhus, Denmark.
+       - (EFB 2013) Krakow, Poland.
+       - (EFB 2010) Salamanca, Spain.
+       - (EFB 2007) Pisa, Italy.
     
-### 11. MENU Series
+### MENU Series
    - International Conference on Meson-Nucleon Physics and the Structure of the Nucleon
    - Topics: Nucleon structure, hadron spectroscopy
        - [(MENU 2023)](https://indico.him.uni-mainz.de/event/171/) Mainz, Germany.
@@ -165,13 +129,8 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (MENU 2013) Rome, Italy.
        - (MENU 2010) Williamsburg, USA.
        - (MENU 2007) Jülich, Germany.
-       - (MENU 2004) Beijing, China.
-       - (MENU 2003) Beijing, China.
-       - (MENU 2001) Washington, USA.
-       - (MENU 1999) Zuoz, Switzerland.
-       - (MENU 1997) Vancouver, Canada.
 
-### 12. Meson Series
+### Meson Series
    - International Workshop on Meson Physics
    - Topics: meson structure, spesctorscopy, production, and interaction.
        - [(Meson 2023)](https://indico.meson.if.uj.edu.pl/event/3/) Krakow, Poland.
@@ -180,25 +139,19 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (Meson 2016)
        - (Meson 2014)
        - (Meson 2012)
-       - (Meson 2010)
-       - (Meson 2008)
-       - (Meson 2006)
-       - (Meson 2004)
-       - (Meson 2002)
-       - (Meson 1996)
 
-### 13. QM Series
+### QM Series
    - International Conference on Ultra-relativistic Nucleus-Nucleus Collisions
    - Topics: QCD phase diagram, Chirality, QCD matter.
        - [(QM 2025)](https://indico.cern.ch/event/1334113/) Frankfurt, Germany.
 
-### 14. SQM Series
+### SQM Series
    - International Conference on Strangeness in Quark Matter
    - Topics: Strangeness in nuclear collision and astrophysics.
        - (SQM 2024) Strasbourg, France.
        - [(SQM 2022)](https://indico.cern.ch/event/1037821/) Busan, South Korea.
 
-### 15. CD Series
+### CD Series
    - International Workshop on Chiral Dynamics
    - Topics: Goldstone-boson dynamics, few-body sytems, and hadron structure.
        - [(CD 2024)](https://www.indico.tp2.ruhr-uni-bochum.de/event/2/) Bochum, Germany.
@@ -206,7 +159,7 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (CD 2018)
        - (CD 2015)
 
-### 16. INPC Series
+### INPC Series
    - International Conference on Nuclear Physics
    - Topics: Nuclear and hadron physics.
        - [(INPC 2022)](https://www.indico.tp2.ruhr-uni-bochum.de/event/2/) Cape Town, South Africa.
@@ -214,14 +167,14 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (INPC 2016)
        - (INPC 2013)
 
-### 17. NSTAR Series
+### NSTAR Series
    - International Workshop on the Physics of Excited Nucleons
    - Topics: Baryon structure, spectrum, and production.
        - (NSTAR 2024) York, UK.
        - [(NSTAR 2022)](https://agenda.infn.it/event/28729/) Genova, Italy.
        - (NSTAR 2019)
 
-### 18. PANIC Series
+### PANIC Series
    - International Conference on Particles and Nuclei
    - Topics: Hot and dense matter physics, hadrons in medium.
        - [(PANIC 2021)](https://indico.lip.pt/event/592/) Lisbon, Portugal.
@@ -229,7 +182,7 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (PANIC 2014)
        - (PANIC 2011)
 
-### 19. J-PARC Series
+### J-PARC Series
    - International Symposium on Science at J-PARC
    - Topics: Particle and nuclear physics, and accelerator science
        - [(J-PARC 2024)](https://conference-indico.kek.jp/event/287/) Mito, Japan.
@@ -237,7 +190,7 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (J-PARC 2014)
        - (J-PARC 2009)
 
-### 20. CHEP Series
+### CHEP Series
    - International Conference on Computing in High Energy and Nuclear Physics
    - Topics: Simulation, computing infrastructure
        - (CHEP 2026) Bangkok, Thailand.
@@ -245,42 +198,42 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (CHEP 2023)
        - (CHEP 2021)
 
-### 21. Lattice Series
+### Lattice Series
    - International Symposium on Lattice Field Theory
    - Topics: Lattice QCD
        - [(Lattice 2024)](https://conference.ippp.dur.ac.uk/event/1265/) Liverpool, UK.
        - (Lattice 2023) Batavia, USA.
        - (Lattice 2022) Bonn, Germany.
        
-### 22. XQCD Series
+### XQCD Series
    - International Conference on QCD in Extreme Conditions
    - Topics: QCD at Finite Temperature and Density, QGP
        - [(XQCD 2025)](https://indico.cern.ch/event/1465523/) Wroclaw, Poland.
        - (XQCD 2024) Lanzhou, China.
        - (XQCD 2023) Coimbra, Portugal.
 
-### 23. Kaon Series
+### Kaon Series
    - International Conference on Kaon Physics
    - Topics: CP and T violation, CKM matrix, flavor mixing, Rare decays
        - (Kaon 2025) Mainz, Germany.
        - [(Kaon 2022)](https://conference-indico.kek.jp/event/169/)  Osaka, Japan.
        - (Kaon 2019) Perugia, Italy
 
-### 24. EuNPC Series
+### EuNPC Series
    - European Conference on Nuclear Physics
    - Topics: Hadron and Nuclear Physics.
        - [(EuNPC 2025)](https://indico.in2p3.fr/event/30430/)  Caen, France.
        - (EuNPC 2022)
        - (EuNPC 2018)
 
-### 25. DIS Series
+### DIS Series
    - International Workshop on Deep-Inelastic Scattering and Related Subjects
    - Topics: Structure Functions and Parton Densities, Small x.
        - [(DIS 2024)](https://lpsc-indico.in2p3.fr/event/3268/)  Grenoble, France.
        - (DIS 2023) East Lansing, USA.
        - (DIS 2022) Santiago de Compostela, Spain.
     
-### 26. ATHIC Series
+### ATHIC Series
    - Asian Triangle Heavy-Ion Conference
    - Topics: QCD Phase Diagram, Heavy-ion collision, hard probe.
        - [(ATHIC 2025)](https://indico.cern.ch/event/1424442/overview)  Odisha, India.
@@ -289,26 +242,22 @@ As new events arise, we’ll update this post to keep it current and relevant fo
        - (ATHIC 2018) Hefei, China.
        - (ATHIC 2016) New Delhi, India.
        - (ATHIC 2014) Osaka, Japan.
-       - (ATHIC 2012) Pusan, South Korea.
-       - (ATHIC 2010) Wuhan, China.
-       - (ATHIC 2008) Tsukuba, Japan.
-       - (ATHIC 2006) Seoul, South Korea.
 
-### 27. PDFLattice Series
+### PDFLattice Series
    - International Workshop on Parton Distributions and Lattice Calculations
    - Topics: QCD Phase Diagram, Heavy-ion collision, hard probe.
        - [(PDFLattice 2025)](https://indico.cern.ch/event/1434067/)  News Port, USA.
        - (PDFLattice 2019) Hickory Corners, USA.
        - (PDFLattice 2017) Oxford, UK.
 
-### 28. QCD@LHC Series
+### QCD@LHC Series
    - International Workshop on Parton Distributions and Lattice Calculations
    - Topics: QCD Phase Diagram, Heavy-ion collision, hard probe.
        - [(QCD@LHC 2024)](https://indico.cern.ch/event/1360294/)  Freiburg, Germany.
        - (QCD@LHC 2023) Durham, UK.
        - (QCD@LHC 2022) Orsay, France.
 
-### 29. ISMD Series
+### ISMD Series
    - International Symposium on Multiparticle Dynamics
    - Topics: Femtoscopy, Forward physics, Jet, Small-x.
        - [(ISMD 2023)](https://indico.cern.ch/event/1258038/overview)  Gyöngyös, Hungary.
