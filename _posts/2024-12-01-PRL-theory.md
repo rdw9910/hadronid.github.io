@@ -10,10 +10,8 @@ tags:
     - research
 ---
 
-
-Physical Review Letters (PRL) is renowned for its publication of groundbreaking research across various fields of physics. 
-In hadron physics, the journal has consistently showcased pivotal discoveries that have shaped our understanding of hadronic interactions, structure, and dynamics. 
-Below is a curated list of notable PRL papers that are essential reads for anyone in the field.
+Groundbreaking research papers have profoundly shaped our understanding of hadronic interactions, structure, and dynamics. 
+Below is a curated list of important theory papers in hadron physics, offering essential insights into the field:
 
 #### PRL papers
 - J. Hua et al. Pion and Kaon Distribution Amplitudes from Lattice QCD. [PRL129, 132001 (2022)](https://doi.org/10.1103/PhysRevLett.129.132001).
