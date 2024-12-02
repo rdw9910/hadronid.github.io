@@ -16,5 +16,5 @@ In hadron physics, the journal has consistently showcased pivotal discoveries th
 Below is a curated list of notable PRL papers that are essential reads for anyone in the field.
 
 #### PRL papers
-- Jefferson Lab $F(\pi)$ Collaboration. Measurement of the Charged Pion Electromagnetic Form-Factor. [PRL86, 1713 (2001)](https://doi.org/10.1103/PhysRevLett.86.1713).
 - PrimEx Collaboration. A New Measurement of the $\pi^0$ Radiative Decay Width. [PRL106, 162303 (2011)](https://doi.org/10.1103/PhysRevLett.106.162303).
+- Jefferson Lab $F(\pi)$ Collaboration. Measurement of the Charged Pion Electromagnetic Form-Factor. [PRL86, 1713 (2001)](https://doi.org/10.1103/PhysRevLett.86.1713).
