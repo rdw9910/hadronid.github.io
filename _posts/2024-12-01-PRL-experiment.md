@@ -18,5 +18,6 @@ Below is a curated list of important experimental papers in hadron physics, offe
 - PrimEx-II Collaboration. Precision measurement of the neutral pion lifetime. [Science 368, 506 (2020)](https://doi.org/10.1126/science.aay6641).
 
 #### PRL papers
+- CLAS Collaboration. Multidimensional, High Precision Measurements of Beam Single Spin Asymmetries in Semi-inclusive $\pi^+$ Electroproduction off Protons in the Valence Region. [PRL 128, 062005 (2022)](https://doi.org/10.1103/PhysRevLett.128.062005).
 - PrimEx Collaboration. A New Measurement of the $\pi^0$ Radiative Decay Width. [PRL 106, 162303 (2011)](https://doi.org/10.1103/PhysRevLett.106.162303).
 - Jefferson Lab $F(\pi)$ Collaboration. Measurement of the Charged Pion Electromagnetic Form-Factor. [PRL 86, 1713 (2001)](https://doi.org/10.1103/PhysRevLett.86.1713).
