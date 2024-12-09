@@ -13,7 +13,7 @@ tags:
 Groundbreaking research papers have profoundly shaped our understanding of hadronic interactions, structure, and dynamics. 
 Below is a curated list of important theory papers in hadron physics, offering essential insights into the field:
 
-#### PRL papers
+
 - C. Chen et al.Nucleon-to-$\Delta$ Axial and Pseudoscalar Transition Form Factors. [PRL 133, 131901 (2024)](https://doi.org/10.1103/PhysRevLett.133.131901).
 - J. Hua et al. Pion and Kaon Distribution Amplitudes from Lattice QCD. [PRL 129, 132001 (2022)](https://doi.org/10.1103/PhysRevLett.129.132001).
 - Z. F. Cui et al. Fresh Extraction of the Proton Charge Radius from Electron Scattering. [PRL 129, 132001 (2022)](https://doi.org/10.1103/PhysRevLett.129.132001).
@@ -25,8 +25,11 @@ Below is a curated list of important theory papers in hadron physics, offering e
 - S.X. Qin et al. Phase diagram and critical end point for strongly interacting quarks. [PRL 106, 172301 (2011)](https://doi.org/10.1103/PhysRevLett.106.172301). 
 - L. Chang et al. Dressed-quark anomalous magnetic moments. [PRL 106, 072001 (2011)](https://doi.org/10.1103/PhysRevLett.106.072001). 
 - L. Chang and C.D. Roberts. Sketching the Bethe-Salpeter kernel. [PRL 103, 081601 (2009)](https://doi.org/10.1103/PhysRevLett.103.081601).
+
+
 - A. Bender et al. Continuum study of deconfinement at finite temperature. [PRL 77, 3724 (1996)](https://doi.org/10.1103/PhysRevLett.77.3724).
 - G.R. Farrar and D.R. Jackson. The Pion Form-Factor. [PRL 43, 246 (1979)](https://doi.org/10.1103/PhysRevLett.43.246).
+- A. Chodos et al. A New Extended Model of Hadrons. [PRD 9, 3471(1974)](https://doi.org/10.1103/PhysRevD.9.3471). 
 - S.J. Brodsky and G.R. Farrar. Scaling Laws at Large Transverse Momentum. [PRL 31, 1153 (1973)](https://doi.org/10.1103/PhysRevLett.31.1153).
 - S. Weinberg. Pion scattering lengths. [PRL 17, 616 (1966)](https://doi.org/10.1103/PhysRevLett.17.616).
 
