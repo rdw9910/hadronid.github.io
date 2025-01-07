@@ -2,7 +2,7 @@
 layout:     post
 title:      "Important Theory Papers in Hadron Physics"
 subtitle:   
-date:       2024-12-01
+date:       2050-12-01
 author:     aj.arifi
 header-img: img/intro.jpeg
 catalog: true
