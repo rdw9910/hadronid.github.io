@@ -2,7 +2,7 @@
 layout:     post
 title:      "Essential Physics Lectures for Undergraduates"
 subtitle:   
-date:       2024-11-13
+date:       2025-02-13
 author:     aj.arifi
 header-img: img/intro.jpeg
 catalog: true
