@@ -2,7 +2,7 @@
 layout:     post
 title:      "Authorship in Academia: Guidelines, Challenges, and Best Practices"
 subtitle:   
-date:       2024-09-01
+date:       2025-06-01
 author:     aj.arifi
 header-img: img/intro.jpeg
 catalog: true
