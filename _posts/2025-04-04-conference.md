@@ -2,7 +2,7 @@
 layout:     post
 title:      "Conferences in Hadron Physics and QCD"
 subtitle:   
-date:       2024-11-04
+date:       2025-04-04
 author:     aj.arifi
 header-img: img/intro.jpeg
 catalog: true
