@@ -103,7 +103,7 @@ The benefits may not be immediately visible in citation counts or grant totals, 
 
 Strong communities produce better science, healthier academic cultures, and future leaders who carry these values forward.
 
-### Conclusion
+#### Conclusion
 
 Science advances through people, not just publications.
 By investing in research communities—through mentorship, collaboration, openness, and inclusivity—we strengthen the foundations of academia itself.
