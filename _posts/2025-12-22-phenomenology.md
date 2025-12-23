@@ -21,11 +21,13 @@ Most ideas in physics are born **in motion**, traveling back and forth between *
 ### Phenomenology
 
 Phenomenology lives closest to reality. It starts from:
+<div style="margin-top:-0.5em"></div>
 - experimental data, numerical simulations,
 - or systematic patterns extracted from measurements.
 
 The phenomenologist’s job is not to explain *everything*. Instead, it is to identify **what must be explained** and what can safely be ignored — at least for now. Good phenomenology does not overwhelm theory with details. It organizes information until patterns emerge.
 Typical phenomenological questions include:
+<div style="margin-top:-0.5em"></div>
 - What changes when conditions change?
 - What remains robust across systems?
 - Where do deviations or anomalies appear?
@@ -36,11 +38,13 @@ A good phenomenological result often looks simple when written down. But that si
 ### Compression
 
 Between raw data and theory lies a step that textbooks often skip. This step is **compression**. Here we:
+<div style="margin-top:-0.5em"></div>
 - discard unnecessary details,
 - identify relevant degrees of freedom,
 - introduce effective quantities that summarize complex dynamics.
 
 Examples include:
+<div style="margin-top:-0.5em"></div>
 - form factors replacing complicated amplitudes,
 - parton distributions summarizing scattering data,
 - mean fields standing in for many-body interactions.
