@@ -33,18 +33,19 @@ Typical phenomenological questions include:
 - Where do deviations or anomalies appear?
 
 A good phenomenological result often looks simple when written down. But that simplicity is hard-won and reflects many hidden choices and judgments.
+<div style="margin-top:-1.5em"></div>
 > Phenomenology answers: *What is happening?*
 
 ### Compression
 
 Between raw data and theory lies a step that textbooks often skip. This step is **compression**. Here we:
-<div style="margin-top:-2.5em"></div>
+<div style="margin-top:-1.5em"></div>
 - discard unnecessary details,
 - identify relevant degrees of freedom,
 - introduce effective quantities that summarize complex dynamics.
 
 Examples include:
-<div style="margin-top:-2.5em"></div>
+<div style="margin-top:-1.5em"></div>
 - form factors replacing complicated amplitudes,
 - parton distributions summarizing scattering data,
 - mean fields standing in for many-body interactions.
@@ -56,11 +57,13 @@ Compression is not a purely technical step. It is a **creative act**. Two physic
 
 Most working physicists live here. Effective models translate phenomenology into a language that theory can understand, while remaining flexible enough to confront data honestly. They are neither purely empirical nor fully fundamental.
 Examples include:
+<div style="margin-top:-1.5em"></div>
 - effective field theories,
 - quark models.
 
 Effective models do not ask *what is fundamental in the universe*.  
 They ask a more practical and productive question:
+<div style="margin-top:-1.5em"></div>
 > *What is sufficient to explain what we see, within a given domain?*
 
 This middle ground is where approximations are tested, ideas are sharpened, and understanding grows incrementally.
@@ -69,12 +72,14 @@ This middle ground is where approximations are tested, ideas are sharpened, and 
 ### Theory 
 
 Theory seeks inevitability. It is built on:
+<div style="margin-top:-1.5em"></div>
 - symmetry principles,
 - conservation laws,
 - mathematical consistency,
 - and universality across different systems.
 
 At this level, physics becomes less about fitting data and more about identifying structures that **cannot be otherwise**. Theory tries to explain why certain patterns appear again and again, even in very different physical settings. Theory asks:
+<div style="margin-top:-1.5em"></div>
 - Why must certain relations hold?
 - Why are some quantities protected?
 - Why do different systems exhibit the same behavior?
@@ -85,12 +90,14 @@ At this level, physics becomes less about fitting data and more about identifyin
 ### The Downward Flow
 
 Once theory exists, it does not remain abstract for long. It flows back down toward phenomenology. Theory: 
+<div style="margin-top:-1.5em"></div>
 - restricts phenomenological freedom,
 - relates seemingly independent observables,
 - predicts patterns not yet measured,
 - and suggests new experiments or simulations.
 
 This is where:
+<div style="margin-top:-1.5em"></div>
 - sum rules emerge,
 - scaling relations appear,
 - and signatures of new physics are proposed.
@@ -100,6 +107,7 @@ A theory becomes useful not when it is elegant, but when it is **testable**.
 ### The Tension Zone 
 
 The most fertile region in this map is the space of **tension**. Tension appears when:
+<div style="margin-top:-1.5em"></div>
 - data resists explanation,
 - models violate expected symmetries,
 - predictions fail quantitatively,
