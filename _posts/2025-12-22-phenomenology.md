@@ -113,22 +113,17 @@ This tension is not a failure of physics. It is the engine that drives progress.
 > No tension, no new ideas.
 
 
-### Three Common Paths Through the Map
+### Paths
 
 #### Bottom-Up (Phenomenology → Theory)
 This path starts from data, builds effective models, and slowly uncovers organizing principles. It is common in strongly coupled systems where first-principles calculations are difficult or impossible.
+
 #### Top-Down (Theory → Phenomenology)
 This path starts from symmetry and consistency, derives consequences, and confronts reality. It is powerful when principles are strong and experimental guidance is limited.
+
 #### Horizontal (Model ↔ Model)
 Here, different models are compared, translated, and tested against each other. This path often produces clarity rather than novelty — and clarity *is* a genuine form of progress. 
 
-### Where Physics Actually Happens
-
-Not at the extremes. Most real physics happens in the **middle layer**:
-- where data meets intuition,
-- where mathematics meets approximation,
-- where models are refined, broken, and rebuilt.
-This is where understanding grows slowly but steadily, through iteration rather than revolution.
 
 ### Final Thought
 
